@@ -6,5 +6,6 @@ Technologies:
 Django
 Python
 HTML/CSS
-Bootstrap
 JavaScript
+Bootstrap
+
